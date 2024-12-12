@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">Hi, I'm <a href="https://yuna0x0.com">yuna0x0</a>!</h1>
+<h1 align="center">Hi, I'm <a href="https://rykarin.vercel.app">Kath</a>!</h1>
 <p align="center">
   <a href="https://yuna0x0.com">
     <img src="https://yuna0x0.com/88x31.webp" alt="yuna0x0">
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/yuna0x0"><img src="https://github-readme-stats.vercel.app/api?username=yuna0x0&hide_border=true&show_icons=true" alt="yuna0x0's github stats"></a>
+  <a href="https://github.com/grusnivis"><img src="https://github-readme-stats.vercel.app/api?username=grusnivis&hide_border=true&show_icons=true&theme=tokyonight" alt="grusnivis's github stats"></a>
 </p>
 
 <!--
