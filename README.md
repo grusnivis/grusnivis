@@ -1,33 +1,22 @@
-[//]: # (<p align="center">)
-
-[//]: # (  <a href="https://yuna0x0.com">)
-
-[//]: # (    <img src="kita-ikuyo-rap.webp" alt="Banner">)
-
-[//]: # (  </a>)
-
-[//]: # (</p>)
+<div align="center">
 
 <h1 align="center">Hi, I'm <a href="https://rykarin.vercel.app">Kath</a>!</h1>
-<p align="left">
-    <img src="/assets/chibiPortrait.PNG" alt="Chibi Portrait" width="400px">
-</p>
-<p align="center">
-  <a href="https://yuna0x0.com">
-    <img src="https://yuna0x0.com/88x31.webp" alt="yuna0x0">
-  </a>
-</p>
-<h3 align="center">Welcome to my GitHub profile :3</h3>
+<img src="/assets/chibiPortrait.PNG" alt="Chibi Portrait" width="350px" align="right">
 
+<pre>
 <p align="center">🔭 I’m currently working on Web Development!</p>
-
-<p align="center">
-  <strong><a href="https://rykarin.vercel.app.com">Website</a></strong> |
-</p>
+</pre>
+<!-- Links -->
+<div align="center">
+[![](https://img.shields.io/badge/personal_website-white?style=flat&color=ccb0f6)](https://rykarin.vercel.app/)
+[![](https://img.shields.io/badge/email-white?style=flat&color=c35340)](mailto:rykarin.thema@gmail.com)
+[![](https://img.shields.io/badge/enka.network-white?style=flat&color=7f05c4)](https://enka.network/u/CenecaQui/)
+</div>
 
 <p align="center">
   <a href="https://github.com/grusnivis"><img src="https://github-readme-stats.vercel.app/api?username=grusnivis&hide_border=true&show_icons=true&theme=tokyonight" alt="grusnivis's github stats"></a>
 </p>
+</div>
 
 <!--
 **yuna0x0/yuna0x0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
