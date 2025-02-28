@@ -11,7 +11,6 @@
 
 <!-- Links -->
 [![](https://img.shields.io/badge/personal_website-white?style=flat&color=ccb0f6)](https://rykarin.vercel.app/)
-[![](https://img.shields.io/badge/email-white?style=flat&color=c35340)](mailto:sigaya.kmp@gmail.com)
 [![](https://img.shields.io/badge/enka.network-white?style=flat&color=7f05c4)](https://enka.network/u/CenecaQui/)
 
 <!-- Github Stats-->
